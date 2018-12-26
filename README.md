@@ -11,3 +11,12 @@ Everyone_can_code
 Happy Coding!!
 
 ## Diclaimer
+The information contained on the learning path website is for knowledge purposes only and CypherCreed does not promote piracy at all. We just believe in "free knowledge" and all the resources are available and taken from the Internet only.
+
+CypherCreed assumes no responsibility for errors or omissions in the Learning Paths.
+
+In no event shall CypherCreed be liable for any special, direct, indirect, consequential, or incidental damages or any damages whatsoever, whether in an action of contract, negligence or other torts, arising out of or in connection with the use of the Service or the contents of the Service.
+ 
+CypherCreed does not guarantee or promise any kind of success.
+
+CypherCreed reserves the right to make additions, deletions, or modification to the contents of the Service at any time without prior notice.
