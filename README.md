@@ -11,7 +11,7 @@ If you are interested in joining our community then drop a mail to ujjwalsinghgr
 <br>
 Happy Coding!!
 
-## Diclaimer
+## Disclaimer
 The information contained on the learning path website is for knowledge purpose only and CypherCreed does not promote piracy at all. We just believe in "free knowledge" and all the resources are available and taken from the Internet only.
 
 CypherCreed is not accountable for errors or omissions in the Learning Paths.
