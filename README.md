@@ -18,6 +18,6 @@ CypherCreed assumes no responsibility for errors or omissions in the Learning Pa
 
 In no event shall CypherCreed be liable for any special, direct, indirect, consequential, or incidental damages or any damages whatsoever, whether in an action of contract, negligence or other torts, arising out of or in connection with the use of the Service or the contents of the Service.
  
-CypherCreed does not guarantee or promise any kind of success.
+CypherCreed does not guarantee or promise any kind of success. It really depends on how efficiently you use these resources.
 
 CypherCreed reserves the right to make additions, deletions, or modification to the contents of the Service at any time without prior notice.
