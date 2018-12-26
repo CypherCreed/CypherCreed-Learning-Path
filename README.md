@@ -7,7 +7,7 @@ We have members from IITs, IIIts, NITs and private institutes having deep knowle
 <i>You_Will_Get_What_You_Want</i> - We also provide you the best resources for any topic for free, means you need not to pay a single penny. You can discuss on any topic like machine learning, BlockChain, Dynammic Programming, web development etc with people who have a good experience in these fields. 
 
 Everyone_can_code
-
+If you are interested in joining our community then drop a mail to ujjwalsinghgravity@gmail.com
 Happy Coding!!
 
 ## Diclaimer
