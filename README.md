@@ -1,4 +1,4 @@
-# CypherCreed's Learning-Path
+# CypherCreed 
 CypherCreed is an online community for discussion related to Computer Science Field, Competitive Programming and mathematics. All the resources, books, and links shared in CypherCreed are available in this repository.
 
 # Perks and merits(Why join us?)
