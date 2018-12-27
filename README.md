@@ -1,6 +1,7 @@
 # CypherCreed 
 CypherCreed is an online community for discussion related to Computer Science field, Competitive Programming and Mathematics. All the resources, books, and links shared in CypherCreed are available in this repository.
-Make sure you contribute to our repository, by giving it stars and pull requests.
+
+Make sure you contribute to our repository by giving it stars and pull requests.
 
 ## Perks and merits(Why join us?)
 We have members from IITs, IIIts, NITs and private Institutes having deep knowledge in their fields related to Computer Science. Your each and every query or doubt will be answered perfectly. 
